@@ -2,9 +2,9 @@
 
 Helloo!!
 
-In this repository, you all can find a variety of data analysis projects that includes some projects with Excel, Power BI, SQL, Python and Tableau.
+In this repository, you all are going to find a variety of data analysis projects that includes some projects with Excel, Power BI, SQL, Python and Tableau.
 
-You will find a link inside the folders for Tableau dashboards..
+There are also links inside the folders for my Tableau Public profile and Tableau dashboards..
 
 Have fun !! :)
 
